@@ -29,3 +29,7 @@ You can find the official installation manual at http://docs.splunk.com/Document
 * [Implementing and Integrating PowerShell DSC [Video]](https://www.packtpub.com/networking-and-servers/implementing-and-integrating-powershell-dsc-video?utm_source=github&utm_medium=repository&utm_campaign=9781788477598)
 
 * [Implementing Azure Cloud Design Patterns](https://www.packtpub.com/virtualization-and-cloud/implementing-azure-cloud-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781788393362)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788836289">https://packt.link/free-ebook/9781788836289 </a> </p>
